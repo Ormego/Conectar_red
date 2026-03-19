@@ -1,4 +1,4 @@
-Network Configuration Tool (Bash)
+Manejador de red (Bash)
 
 Script interactivo para la gestión de redes en sistemas Linux mediante NetworkManager.
 Requisitos
@@ -22,5 +22,5 @@ Funcionalidades
 Uso
 Bash
 
-chmod +x network_manager.sh
-sudo ./network_manager.sh
+chmod +x manejador_de_red.sh
+sudo ./manejador_de_red.sh
